@@ -1,0 +1,1 @@
+Arquivo de exmeplo que será recebido no local via git pull
