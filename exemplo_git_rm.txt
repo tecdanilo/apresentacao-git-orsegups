@@ -1,0 +1,1 @@
+"Demonstracao de arquivo adicionado por engano no controle de vers∆o para demonstrar o funcionamento do comando git rm" 
